@@ -55,39 +55,252 @@
                 <BOOL/>
               </type>
             </variable>
-            <variable name="R0" address="%QX1.0">
+            <variable name="A12" address="%IX0.7">
               <type>
                 <BOOL/>
               </type>
             </variable>
-            <variable name="R1" address="%QX1.1">
+            <variable name="A13" address="%IX1.0">
               <type>
                 <BOOL/>
               </type>
             </variable>
-            <variable name="R2" address="%QX1.2">
+            <variable name="A14" address="%IX1.1">
               <type>
                 <BOOL/>
               </type>
             </variable>
-            <variable name="R3" address="%QX1.3">
+            <variable name="A15" address="%IX1.2">
               <type>
                 <BOOL/>
               </type>
             </variable>
-            <variable name="D12" address="%QX0.0">
+            <variable name="I16" address="%IX1.3">
               <type>
                 <BOOL/>
               </type>
             </variable>
-            <variable name="D4" address="%QW4">
+            <variable name="I17" address="%IX1.4">
               <type>
-                <INT/>
+                <BOOL/>
               </type>
             </variable>
-            <variable name="D5" address="%QW5">
+            <variable name="I18" address="%IX1.5">
               <type>
-                <INT/>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="IN0" address="%IX1.6">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="IN1" address="%IX1.7">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="R0" address="%QX0.0">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="R1" address="%QX0.1">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="R2" address="%QX0.2">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="R3" address="%QX0.3">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="R4" address="%QX0.4">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="R5" address="%QX0.5">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="R6" address="%QX0.6">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="R7" address="%QX0.7">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="R8" address="%QX1.0">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="R9" address="%QX1.1">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="R10" address="%QX1.2">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="R11" address="%QX1.3">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="R12" address="%QX1.4">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="R13" address="%QX1.5">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="R14" address="%QX1.6">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="R15" address="%QX1.7">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="D0" address="%QX2.0">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="D1" address="%QX2.1">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="D2" address="%QX2.2">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="D3" address="%QX2.3">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="D4" address="%QX2.4">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="D5" address="%QX2.5">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="D6" address="%QX2.6">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="D7" address="%QX2.7">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="D8" address="%QX3.0">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="D9" address="%QX3.1">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="D10" address="%QX3.2">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="D11" address="%QX3.3">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="D12" address="%QX3.4">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="D13" address="%QX3.5">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="D14" address="%QX3.6">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="D15" address="%QX3.7">
+              <type>
+                <BOOL/>
+              </type>
+            </variable>
+            <variable name="D16" address="%QW0">
+              <type>
+                <UINT/>
+              </type>
+            </variable>
+            <variable name="ModIn_0" address="%QW1">
+              <type>
+                <WORD/>
+              </type>
+              <documentation>
+                <xhtml:p><![CDATA[holding register for dimmer]]></xhtml:p>
+              </documentation>
+            </variable>
+            <variable name="A0" address="%IW0">
+              <type>
+                <WORD/>
+              </type>
+            </variable>
+            <variable name="A1" address="%IW1">
+              <type>
+                <WORD/>
+              </type>
+            </variable>
+            <variable name="A2" address="%IW2">
+              <type>
+                <WORD/>
+              </type>
+            </variable>
+            <variable name="A3" address="%IW3">
+              <type>
+                <WORD/>
+              </type>
+            </variable>
+            <variable name="A4" address="%IW4">
+              <type>
+                <WORD/>
+              </type>
+            </variable>
+            <variable name="lumen" address="%IW5">
+              <type>
+                <WORD/>
               </type>
             </variable>
           </localVars>
